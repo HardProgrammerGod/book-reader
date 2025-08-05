@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#book-content p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+.word {
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.word:hover {
+  background: #d3e4ff;
+}
+
+.tooltip {
+  position: absolute;
+  background: #333;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  display: none;
+  z-index: 1000;
+  font-size: 14px;
+}
+
+.learned {
+  background-color: #d1ffd1;
+  font-weight: bold;
+}
+
+.stats-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #2a60c0;
+  text-decoration: none;
+}
+
+.stats-link:hover {
+  text-decoration: underline;
+}
