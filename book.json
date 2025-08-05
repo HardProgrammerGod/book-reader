@@ -1,0 +1,17 @@
+{
+  "title": "The Mysterious Island",
+  "author": "Hard Build",
+  "language": "en",
+  "level": "A2-B1",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Storm",
+      "paragraphs": [
+        "The wind was strong. The rain hit the island hard.",
+        "A small boat appeared in the waves. Five men were inside.",
+        "They were tired, cold, and hungry. But they were alive."
+      ]
+    }
+  ]
+}
